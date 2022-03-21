@@ -1,0 +1,32 @@
+Basically money porter is an online mobile banking system. The ultimate objective of money porter is to ensure fast and secure financial services for the people of Bangladesh. It has a special focus to serve the masses people of the country to achieve financial inclusion by providing services that are convenient, affordable and reliable . 
+
+Money porter allows four kind of user Admin,Agent,Personal user and merchandiser. Admin account can access only by Money Porter officials and other three types are available for customer.
+
+Personal User can Mobile recharge, Send Money, Cashout, Payment, show transection history and change Password by this system.(S/)He can select any operator and recharge any number.Personal user can send money to only other user not every number.Personal user can cashout to only agent number.Cashout charge is .005% .Personal user can paybill to merchandiser number.
+
+Agent User can  Cash In, Cashout, Payment, show transection history and change Password. Agent can cashout to Admin. Cashout Charge is .002% for agent. Cash in is allowd to only personal user number. Agent can paybill to merchandiser number.
+
+Admin can show all user transection history. And he can show any specific user history also by search by mobile number.Admin can Show all user information. He can insert,update,delete and reset any user information without user mobile number. Merchandiser can cashout, Show transection history and change password. Merchandiser can cashout to only Admin number without any cashout charge.
+
+New user can create account by clicking create account option.If any user forget his password he can reset his password also.
+
+Note: Please connect MY_DETAILS.bacpac file with your database and past connection string into app.config
+
+For Initial use One user information is given below:
+
+User name     :Ahsan
+Mobile Number :123
+Pass          :123
+
+@Author:
+#Md. Ahsan Nayem
+
+
+
+
+
+
+
+ 
+
+ 
